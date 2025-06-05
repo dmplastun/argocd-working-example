@@ -2,7 +2,7 @@ nameOverride: guestbook
 fullnameOverride: guestbook
 
 image:
-  repository: gcr.io/heptio-images/ks-guestbook-demo
+  repository: mds1455975151/ks-guestbook-demo
 
 resources:
   limits:
